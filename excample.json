@@ -1,0 +1,8 @@
+{
+    "username": "admin",
+    "password": "merhaba",
+    "fullname": "Boss Admin",
+    "email": "admin@example.com",
+    "role": 1,
+    "deletedAt": false
+  }
